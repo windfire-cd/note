@@ -3,7 +3,7 @@ note
 
 some study and work notes
 
-比较混乱，以后整理吧
+
 
 
 changlog

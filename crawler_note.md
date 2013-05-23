@@ -1,6 +1,10 @@
 # 如何实现一个爬虫
 
 
+## robot.txt
+
+robots.txt（统一小写）是一种存放于网站根目录下的ASCII编码的文本文件，它通常告诉网络搜索引擎的漫游器（又称网络蜘蛛），此网站中的哪些内容是不应被搜索引擎的漫游器获取的，哪些是可以被（漫游器）获取的
+
 ## 参考
 
 1. [XPath wiki](http://zh.wikipedia.org/zh-cn/XPath)
@@ -13,3 +17,9 @@
 8. [BloomFilter——大规模数据处理利器](http://www.cnblogs.com/heaad/archive/2011/01/02/1924195.html)
 9. [Bloom Filter概念和原理](http://blog.csdn.net/jiaomeng/article/details/1495500)
 10. [XPath 教程](http://www.w3school.com.cn/xpath/)
+11. [Larbin 设计原理](http://itindex.net/detail/36916-larbin-%E8%AE%BE%E8%AE%A1-%E5%8E%9F%E7%90%86)
+12. [robots.txt wiki](https://zh.wikipedia.org/wiki/Robots.txt)
+13. [web spider wiki en](http://en.wikipedia.org/wiki/Web_crawler)
+14. [oschina使用scrapy分布式爬虫的一个方案](http://www.oschina.net/question/209440_102205)
+15. [scrapy实战之定向抓取某网店商品资料](http://my.oschina.net/taisha/blog/121608)
+16. [gcrawler:一个基于gevent的简单爬虫框架](http://m.blog.csdn.net/blog/Raptor/6227219)
